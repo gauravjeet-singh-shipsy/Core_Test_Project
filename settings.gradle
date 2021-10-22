@@ -1,0 +1,4 @@
+rootProject.name = "Core Test Project"
+include ':app'
+include ':mylibrary1'
+include ':mylibrary2'
